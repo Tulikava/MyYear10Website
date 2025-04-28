@@ -30,13 +30,14 @@ img {
 
 /* BIG text styling for the hero section text */
 .hero-text {
+    color: rgb(156, 211, 27);
     font-size: 4em;
     font-weight: bold;
 }
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(156, 211, 27);
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(71, 71, 71);
@@ -64,6 +65,7 @@ img {
 
 /* Styling for the topic card titles */
 .topic-card-text{
+    color: rgb(156, 211, 27);
     font-size: 1.5em;
     margin-bottom: 0.5em;
     /* center align text */
