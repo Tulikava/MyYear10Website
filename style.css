@@ -86,3 +86,6 @@ video{
     margin: 0 auto;
     display: block;
 }
+.two-column{
+    grid-column: span 2;
+}
